@@ -65,4 +65,4 @@ system.time({ processing }) # 查看所需时间
 
 ## 插入本地图片（英文路径），添加title：GSEA
 使用Dex与正常对比的GSEA特定通路富集
-![alt](./1.with_or_without_dex/1.with_or_without_dex_dex.jpeg "GSEA")
+![heatmap](https://github.com/PengBingming/GSE112491/blob/main/heatmap.jpeg?raw=true "GSEA")
