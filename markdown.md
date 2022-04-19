@@ -63,6 +63,6 @@ system.time({ processing }) # 查看所需时间
 ***
 > 你已经学的很好了
 
-## 插入本地图片（英文路径），添加title：GSEA
-使用Dex与正常对比的GSEA特定通路富集
-![heatmap](https://github.com/PengBingming/GSE112491/blob/main/heatmap.jpeg?raw=true "GSEA")
+## 插入本地图片（英文路径），添加title：heatmap
+GSE112491使用Dex的差异热图（包含敲低与为敲低Brg1）
+![alt](https://github.com/PengBingming/GSE112491/blob/main/heatmap.jpeg?raw=true "Heatmap")
