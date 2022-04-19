@@ -63,6 +63,6 @@ system.time({ processing }) # 查看所需时间
 ***
 > 你已经学的很好了
 
-## 插入本地图片（英文路径），添加title：heatmap
+## 插入本地图片（英文路径），添加title：Heatmap
 GSE112491使用Dex的差异热图（包含敲低与为敲低Brg1）
 ![alt](https://github.com/PengBingming/GSE112491/blob/main/heatmap.jpeg?raw=true "Heatmap")
